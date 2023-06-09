@@ -1,0 +1,11 @@
+C:\Projetos\AtleticoMineiroLogo\bin\Debug\AtleticoMineiroLogo.exe.config
+C:\Projetos\AtleticoMineiroLogo\bin\Debug\AtleticoMineiroLogo.exe
+C:\Projetos\AtleticoMineiroLogo\bin\Debug\AtleticoMineiroLogo.pdb
+C:\Projetos\AtleticoMineiroLogo\obj\Debug\AtleticoMineiroLogo.csproj.AssemblyReference.cache
+C:\Projetos\AtleticoMineiroLogo\obj\Debug\AtleticoMineiroLogo.csproj.SuggestedBindingRedirects.cache
+C:\Projetos\AtleticoMineiroLogo\obj\Debug\AtleticoMineiroLogo.Form1.resources
+C:\Projetos\AtleticoMineiroLogo\obj\Debug\AtleticoMineiroLogo.Properties.Resources.resources
+C:\Projetos\AtleticoMineiroLogo\obj\Debug\AtleticoMineiroLogo.csproj.GenerateResource.cache
+C:\Projetos\AtleticoMineiroLogo\obj\Debug\AtleticoMineiroLogo.csproj.CoreCompileInputs.cache
+C:\Projetos\AtleticoMineiroLogo\obj\Debug\AtleticoMineiroLogo.exe
+C:\Projetos\AtleticoMineiroLogo\obj\Debug\AtleticoMineiroLogo.pdb
